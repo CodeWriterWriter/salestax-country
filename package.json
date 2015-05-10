@@ -1,0 +1,25 @@
+{
+  "name": "salestax-country",
+  "version": "1.0.0",
+  "description": "salestax-country",
+  "main": "salestax-country.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/senecajs/salestax-country.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senecajs/salestax-country/issues"
+  },
+  "homepage": "https://github.com/senecajs/salestax-country",
+  "dependencies": {
+    "seneca": "^0.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
